@@ -3,10 +3,11 @@ home: true
 layout: BlogHome
 icon: house
 title: 主页
-heroImage: /assets/images/person_icon.jpg
+heroImage: /assets/images/yellow_bean_dog.jpg
 heroText: 花糖的书架
 heroFullScreen: true
 tagline: 一起来打棒球吧！！
+bgImage: https://img2.animatetimes.com/2024/06/7a96544d543b14dbfcc839f8f800cc246662e562afe480_86074475_78bcba6ef18bf51e4e1986f47e1a69bbb9b1ec81.jpg
 projects:
   - icon: folder-open
     name: 项目名称
